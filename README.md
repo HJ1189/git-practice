@@ -3,14 +3,14 @@
 Abstract: This project is to practice git.
 [See Demo](https://www.google.com/)
 
-##Vim modes
+## Vim modes
 
 -Normal mode: press`esc` on ANY mode
 -Insert mode: press `i` on Normal mode
 -Visual mode: press `v` on Normal mode
 -Command mode: press `:` on Normal mode
 
-##Installation
+## Installation
 
 ```shell
 $ git clone {repo address}
